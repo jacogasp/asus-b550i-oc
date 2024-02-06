@@ -11,7 +11,7 @@ OpenCore's EFI folder foder AMD based Hackintosh.
 | ------------------ | -------------------------------- |
 | **Motherboard**    | ASUS ROG B550-I Strix            |
 | **CPU**            | AMD Ryzen 5600X                  |
-| **GPU**            | XFX AMD Radeon RX 6000 XT 8GB    |
+| **GPU**            | XFX AMD Radeon RX 6600 XT 8GB    |
 | **RAM**            | Corsair 2x8 DDR4 3600 MHz        |
 | **SSD**            | SanDisk SanDisk SDSSDH3 250G     |
 | **Ethernet**       | Intel Ethernet Controller I115-V |
